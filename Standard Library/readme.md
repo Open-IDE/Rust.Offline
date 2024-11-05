@@ -7,7 +7,8 @@ sch: https://www.google.com/search?q=rust-src+offline
 
 Issue:
 - https://github.com/rust-lang/rust/issues/123463
-- https://github.com/rust-lang/rust/issues/85460
+- [Rust-src not included in the standalone installer #85460
+](https://github.com/rust-lang/rust/issues/85460)
 
 ## Solution:
 https://users.rust-lang.org/t/how-to-install-rust-src-offline/99364
