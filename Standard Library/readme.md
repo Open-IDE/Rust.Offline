@@ -16,6 +16,8 @@ Issue:
 ## Solution:
 
 ## Discuss:
+- [Proper Offline Install](https://users.rust-lang.org/t/proper-offline-install/116256/3)
+
 - [How to install rust-src offline?](https://users.rust-lang.org/t/how-to-install-rust-src-offline/99364)
 quote:
 >so I think there's no other choice but to download the rust-src pkg using the url from the manifest file and check again. just be pay attention to the location to extract the directories, you should got a ${sysroot}/lib/rustlib/src directory if you extracted it correctly.
