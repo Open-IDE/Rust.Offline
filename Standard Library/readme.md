@@ -5,11 +5,11 @@
 ### Solution:
 "Attach manually" using this path:
 
-**rust-src.offline** installed:  
+[rust-src.offline](https://github.com/Open-IDE/rust-src.offline) installed:  
 `/usr/lib/rustlib/src/rust`
 
-~~Versus rustup:  
-`/home/me/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust`~~
+Versus rustup:
+>`/home/me/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust`
 
 # Problem:
 ## Cause: Rust-src is Not included in offline Standalone installer!
