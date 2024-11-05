@@ -12,7 +12,8 @@ install(){
   sudo cp -r rust-src-1.82.0/rust-src/lib/rustlib/src /usr/lib/rustlib/
 }
 
-# Old:
-# sudo ./install.sh --list-components
-# Install Rust Standard Library to /lib/rustlib
-#sudo ./install.sh --components=rust-std-x86_64-unknown-linux-gnu --libdir=/lib
+install_standard_library(){
+  # sudo ./install.sh --list-components
+  # Install Rust Standard Library to /lib/rustlib
+  sudo ./install.sh --components=rust-std-x86_64-unknown-linux-gnu --libdir=/lib
+}
