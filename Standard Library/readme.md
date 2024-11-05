@@ -14,8 +14,10 @@ Issue:
 ](https://github.com/rust-lang/rust/issues/85460)
 
 ## Solution:
-https://users.rust-lang.org/t/how-to-install-rust-src-offline/99364
 
+## Discuss:
+- [How to install rust-src offline?](https://users.rust-lang.org/t/how-to-install-rust-src-offline/99364)
+- https://www.reddit.com/r/rust/comments/1dge9wt/installing_rust_completely_offline_on_windows/
 
 
 # Try:
