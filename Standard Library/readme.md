@@ -22,7 +22,8 @@ Issue:
 quote:
 >so I think there's no other choice but to download the rust-src pkg using the url from the manifest file and check again. just be pay attention to the location to extract the directories, you should got a ${sysroot}/lib/rustlib/src directory if you extracted it correctly.
 
-- https://www.reddit.com/r/rust/comments/1dge9wt/installing_rust_completely_offline_on_windows/
+reddit:
+- [Installing rust completely offline on Windows](https://www.reddit.com/r/rust/comments/1dge9wt/installing_rust_completely_offline_on_windows/)
 
 
 # Try:
