@@ -1,3 +1,6 @@
+# Default path:
+`/usr/lib/rustlib`
+
 # Problem:
 sch:
 - https://www.google.com/search?q=rust+stdlib+linux
