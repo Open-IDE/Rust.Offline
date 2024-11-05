@@ -1,4 +1,6 @@
 # Default path:
+**Use in JetBrains IDEs.**
+
 standalone:
 `/usr/lib/rustlib/src/rust`
 
