@@ -3,7 +3,10 @@
 
 # Problem:
 ## Cause: Rust-src is Not included in offline Standalone installer!
-sch: https://www.google.com/search?q=rust-src+offline
+sch:
+- https://www.google.com/search?q=rust-src+offline
+- https://www.google.com/search?q=rust-src+standalone
+- https://www.google.com/search?q=rust-src+standalone+installer
 
 Issue:
 - https://github.com/rust-lang/rust/issues/123463
