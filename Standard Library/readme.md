@@ -1,10 +1,14 @@
-# Default path:
-**Use in JetBrains IDEs.**
+# Use in IDE:
+## JetBrains
+**Will say: "Cannot attack automatically without rustup.**
 
-standalone:  
+### Solution:
+"Attach manually" using this path:
+
+**rust-src.offline** installed: 
 `/usr/lib/rustlib/src/rust`
 
-rustup:  
+Versus rustup:  
 `/home/me/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust`
 
 # Problem:
