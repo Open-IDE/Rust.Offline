@@ -1,7 +1,7 @@
 # Default path:
 **Use in JetBrains IDEs.**
 
-standalone:
+standalone:  
 `/usr/lib/rustlib/src/rust`
 
 rustup:  
