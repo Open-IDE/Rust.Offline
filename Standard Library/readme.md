@@ -5,7 +5,7 @@
 ### Solution:
 "Attach manually" using this path:
 
-**rust-src.offline** installed: 
+**rust-src.offline** installed:  
 `/usr/lib/rustlib/src/rust`
 
 Versus rustup:  
