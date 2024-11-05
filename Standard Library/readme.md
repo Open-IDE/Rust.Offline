@@ -1,5 +1,9 @@
 # Default path:
+install = standalone:
 `/usr/lib/rustlib`
+
+install = rustup:  
+`/home/me/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust`
 
 # Problem:
 ## Cause: Rust-src is Not included in offline Standalone installer!
